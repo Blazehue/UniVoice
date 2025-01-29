@@ -15,6 +15,10 @@ const mentorshipRequests = [
 ];
 
 const PMentor: React.FC = () => {
+  const handleJoinMeeting = () => {
+    window.open('https://meet.google.com/new', '_blank');
+  };
+
   return (
     <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-white pt-24 pb-16">
       <div className="container mx-auto px-4">
@@ -32,6 +36,12 @@ const PMentor: React.FC = () => {
                   </div>
                   <p className="text-gray-600 dark:text-gray-400">Date: {meeting.date}</p>
                   <p className="text-gray-600 dark:text-gray-400">Time: {meeting.time}</p>
+                  <button 
+                    onClick={handleJoinMeeting}
+                    className="mt-4 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors"
+                  >
+                    Join Meeting
+                  </button>
                 </div>
               ))}
             </div>
