@@ -9,6 +9,7 @@ import PMentor from './components/PMentor';
 import PStudent from './components/PStudent';
 import AuthModal from './components/AuthModal';
 import AboutUs from './components/AboutUs';
+import Footer from './components/Footer'; // Import the Footer component
 
 const AnimatedRoutes = () => {
   const location = useLocation();
@@ -135,6 +136,8 @@ function App() {
         />
         
         <AnimatedRoutes />
+
+        <Footer /> {/* Add the Footer component here */}
 
         <AuthModal
           isOpen={isAuthModalOpen}
