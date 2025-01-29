@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-white dark:bg-gray-900 text-gray-900 dark:text-white py-4 border-t border-gray-200 dark:border-gray-700">
       <div className="container mx-auto px-4 flex flex-col items-center space-y-2 sm:flex-row sm:justify-center sm:space-x-6 sm:space-y-0">
         <a
-          href="https://www.linkedin.com/in/rajat-pandey-58a949257/"
+          href="https://www.linkedin.com/in/univoice-undefined-b0328234a/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-gray-600 dark:hover:text-gray-300 transition-colors duration-200"
