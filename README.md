@@ -38,59 +38,48 @@ Click the link above to experience Univoice for yourself!
 - **Mentor Dashboard**: Enables mentors to view and schedule guidance sessions with students.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Navigation**: Smooth and intuitive navigation for an enhanced user experience.
+- **Dark-Mode**: Smooth fade in-out transitions of animations for dark mode with reach of one button
 
 ---
 
 ## 🛠️ **Tech Stack**
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Prototype does not yet include backend functionalities (for demonstration purposes only).
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React and Node.js
+- **Backend**: Prototype includes Back-end development with Firebase-Here's the Repository for the same: https://github.com/singharyan006/UNIVOICE
 - **Design Tools**: Figma (used for wireframing and initial designs).
 
----
-
-## 🏆 **Achievements**
-- **RED BULL BASEMENT Ideathon**: Successfully cleared the Ideathon stage with this innovative concept.
-- **Hackathon**: Secured **7th position** at the Hackathon stage, showcasing the prototype's design and functionality.
 
 ---
 
 ## 📸 **Screenshots**
 **HOMEPAGE:**
+![image](https://github.com/user-attachments/assets/c4890397-5e5f-4d20-bc8f-3c95e3fb9ae3)
 
-![image](https://github.com/user-attachments/assets/3a36f1c4-9b87-4a6c-bf93-f33317793ca1)
+![image](https://github.com/user-attachments/assets/05a57c0b-07d3-43c6-a8ce-3818f233a10f)
 
-**STUDENT'S DASHBOARD:**
+**OUR NETWORK**
+![image](https://github.com/user-attachments/assets/1fe85b95-3579-484d-927b-215c1cb3ba40)
 
-![image](https://github.com/user-attachments/assets/502ed9d4-6924-4615-b163-94c5791fa3d0)
+![image](https://github.com/user-attachments/assets/a38abca6-3f51-4950-9356-a04095ff09e4)
 
-**MENTOR'S DASHBOARD:**
+**ABOUT US**
+![image](https://github.com/user-attachments/assets/61775992-4d21-4b12-97e5-26cc5635551d)
 
-![image](https://github.com/user-attachments/assets/52b2afc6-519a-4ad3-bd40-d5dbe8905213)
+**MENTOR DASHBOARD**
+![image](https://github.com/user-attachments/assets/8074bb60-946d-48b0-924e-d9ec3c3f0c1d)
 
----
+**STUDENT DASHBOARD**
+![image](https://github.com/user-attachments/assets/6667c804-24b4-42d7-9cba-9fdae31cce2e)
 
-## 📂 **Folder Structure**
-```
-Univoice/
-├── index.html                 # Main homepage file
-├── homepage/
-│   ├── styles.css             # CSS file for homepage styling
-│   └── script.js              # JavaScript file for homepage interactivity
-├── mentorDashboard/
-│   ├── mentorDashboard.html    # Mentor dashboard file
-│   ├── styles.css              # CSS file for mentor dashboard
-│   └── script.js               # JavaScript file for mentor dashboard
-├── studentDashboard/
-│   ├── studentDashboard.html   # Student dashboard file
-│   ├── styles.css              # CSS file for student dashboard
-│   └── script.js               # JavaScript file for student dashboard
-├── studentSignup/
-│   ├── studentSignup.html      # Student signup file
-│   ├── styles.css              # CSS file for signup page
-│   └── script.js               # JavaScript file for signup page
-├── network/
-│   ├── network.html            # Network page file
-│   ├── styles.css              # CSS file for network page
-│   └── script.js               # JavaScript file for network page
-└── README.md                   # Project documentation
-```
+![image](https://github.com/user-attachments/assets/d914d53e-5bc3-4d25-a827-f5e95dfc697f)
+
+**LOGIN AND SIGNUP PAGES**
+![image](https://github.com/user-attachments/assets/da6fe127-b31b-42b2-8b67-11425a70c029)
+
+![image](https://github.com/user-attachments/assets/02c9f172-360b-4d1d-aa39-b3225c52d61c)
+
+
+
+
+
+
+
