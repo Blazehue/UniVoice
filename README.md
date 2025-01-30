@@ -17,7 +17,7 @@ This prototype represents the first step in bringing this idea to life, showcasi
 ---
 
 ## Website Prototype
-Explore the [Website Prototype](https://dhyeyshah23.github.io/Student-Ecounselling-Platform) to see the live project in action.
+Explore the [Website Prototype](https://consultunivoice.netlify.app/) to see the live project in action.
 
 ---
 
