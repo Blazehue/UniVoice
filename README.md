@@ -1,9 +1,6 @@
 # Univoice Website Prototype
 
-Welcome to the **Univoice Website Prototype**, a platform designed to facilitate effective communication between students and mentors by providing personalized guidance and mentorship. This website was created as part of the **RED BULL BASEMENT Ideathon + Hackathon**, organized by **Cherry+ Network**, where our team secured:
-- **Cleared Ideathon Stage**
-- **7th Position in Hackathon Stage**
-
+Welcome to the **Univoice Website Prototype**, a platform designed to facilitate effective communication between students and mentors by providing personalized guidance and mentorship.
 ---
 
 ## 🚀 **About Univoice**
@@ -13,6 +10,9 @@ Univoice is a conceptual platform aimed at bridging the gap between students and
 3. **Collaboration Opportunities**: Enabling students to connect with like-minded peers or experts from foreign universities.
 
 This prototype represents the first step in bringing this idea to life, showcasing the vision of the platform.
+
+Our Instagram: https://www.instagram.com/consult.univoice?igsh=amlucXhwYWVqdmU%3D&utm_source=qr
+Our LinkedIn: https://www.linkedin.com/in/rajat-pandey-58a949257/
 
 ---
 
