@@ -12,6 +12,8 @@ Univoice is a conceptual platform aimed at bridging the gap between students and
 This prototype represents the first step in bringing this idea to life, showcasing the vision of the platform.
 
 Our Instagram: https://www.instagram.com/consult.univoice?igsh=amlucXhwYWVqdmU%3D&utm_source=qr
+
+
 Our LinkedIn: https://www.linkedin.com/in/rajat-pandey-58a949257/
 
 ---
@@ -96,6 +98,7 @@ Click the link above to experience Univoice for yourself!
 
 
 ![image](https://github.com/user-attachments/assets/da6fe127-b31b-42b2-8b67-11425a70c029)
+
 
 
 
